@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ruslan.sizer@gmx.de
+	name = Ruslan Zitser
